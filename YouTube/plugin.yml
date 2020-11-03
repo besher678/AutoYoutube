@@ -1,0 +1,13 @@
+---
+name: Youtube
+version: 1.0.0
+main: besher\YouTube\Main
+api: 3.0.0
+commands:
+  youtube:
+    description: "Apply or see the requierments for youtube rank!"
+    usage: /youtube
+  yt:
+    description: "Apply or see the requierments for Youtube rank!"
+    usage: /yt
+...
